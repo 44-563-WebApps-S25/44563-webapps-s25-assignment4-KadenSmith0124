@@ -1,0 +1,26 @@
+.speech {
+    font-family: 'Times New Roman'; 
+    font-size: 20; 
+    color: black;
+}
+.stage_direction {
+    color:black; 
+    font-size: 20; 
+    font-family: 'Times New Roman'; 
+    background: lightcyan;
+}
+.stage_direction:hover {
+    color:gray; 
+    background: cyan;
+}
+.name {
+    color:black; 
+    font-size: 20; 
+    font-family: 'Times New Roman';
+}
+.viola {
+    color: pink;
+}
+.clown {
+    color: blue;
+}
