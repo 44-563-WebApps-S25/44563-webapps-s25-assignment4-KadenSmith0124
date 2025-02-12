@@ -26,8 +26,18 @@
     color: pink;
 }
 
+.viola:hover {
+    text-shadow: 2px 3px 5px lightcoral;
+    border-style: dotted;
+}
+
 .clown {
     color: blue;
+}
+
+.clown:hover {
+    text-shadow: 2px 3px 5px lightskyblue;
+    border-style: dotted;
 }
 
 table { 
